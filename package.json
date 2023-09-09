@@ -1,0 +1,15 @@
+{
+  "name": "week-6-unit-final-coding-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Week06UnitFinalCodingProject.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.8",
+    "mocha": "^10.2.0"
+  }
+}
